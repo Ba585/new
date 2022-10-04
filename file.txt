@@ -1,0 +1,8 @@
+1)Make a folder with name Practice.Add html files Practice1,Home,Login,register and css file Practice1.css.
+2)Write heading as Amit's Page.
+3)Make a Navbar using unordered list and anchor tags which links to Home,Login and register pages.(Add some content to Home,Login and Register pages)
+4)Navbar and heading should be wrapped under division tag.
+5)Make list color as green using css .
+6)Add Your favourite image with the heading My favourite image.
+7)Add some width and height to the image using css.
+8)At last set body background color as aqua.

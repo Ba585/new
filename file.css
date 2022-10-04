@@ -1,0 +1,19 @@
+.List{
+    color:green;
+    margin-left:20px;
+}
+a{
+    color:red;
+    padding:20px;
+}
+
+#imgId{
+    width:150px;
+    height:100px;
+}
+body{
+    background-color: aqua;
+}
+h3{
+    color:purple;
+}
